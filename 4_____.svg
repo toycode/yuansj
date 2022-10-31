@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.13" y1="1" x2="0.67" y2="0.224" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#396dff"/>
+      <stop offset="1" stop-color="#bc48ff"/>
+    </linearGradient>
+  </defs>
+  <path id="手机底图" d="M111.669,281.122A605.239,605.239,0,0,1,502.478,138.647c336.448,0,609.191,273.838,609.191,611.636a610.61,610.61,0,0,1-138.553,388.364H111.669Z" transform="translate(-111.669 -138.647)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+</svg>
