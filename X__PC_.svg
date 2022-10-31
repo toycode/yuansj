@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="282.317" height="67.078" viewBox="0 0 282.317 67.078">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.296" y1="1.475" x2="1.028" y2="-0.621" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#393da7"/>
+      <stop offset="1" stop-color="#ca4eb5"/>
+    </linearGradient>
+  </defs>
+  <g id="下载PC端" transform="translate(0 -0.457)">
+    <path id="路径_115" data-name="路径 115" d="M2032.241,1289.25H2247.48a33.638,33.638,0,0,1,33.539,33.539h0a33.638,33.638,0,0,1-33.539,33.539H2032.241a33.638,33.638,0,0,1-33.539-33.539h0A33.637,33.637,0,0,1,2032.241,1289.25Z" transform="translate(-1998.702 -1288.793)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <text id="下载_PC_端" data-name="下载 PC 端" transform="translate(77 42.457)" fill="#fff" font-size="26" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-weight="700"><tspan x="0" y="0">下载 PC 端</tspan></text>
+  </g>
+</svg>
